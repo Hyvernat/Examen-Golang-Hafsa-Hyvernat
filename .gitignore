@@ -1,0 +1,8 @@
+# Binaries
+*.exe
+
+# Output
+out/
+
+# Config local (optionnel si sensible)
+config.json
